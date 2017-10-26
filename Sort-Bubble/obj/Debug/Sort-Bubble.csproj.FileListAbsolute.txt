@@ -8,4 +8,3 @@ D:\Dropbox\Dropbox\Career\Learn\CodeBase\SortingAlgo\Sort-Bubble\obj\Debug\Sort-
 D:\Dropbox\Dropbox\Career\Learn\CodeBase\SortingAlgo\Sort-Bubble\obj\Debug\Sort-Bubble.pdb
 D:\Dropbox\Dropbox\Career\Learn\CodeBase\SortingAlgo\Sort-Bubble\bin\Debug\Sort-Bubble.exe
 D:\Dropbox\Dropbox\Career\Learn\CodeBase\SortingAlgo\Sort-Bubble\bin\Debug\Sort-Bubble.pdb
-D:\Dropbox\Dropbox\Career\Learn\CodeBase\SortingAlgo\Sort-Bubble\obj\Debug\Sort-Bubble.csprojResolveAssemblyReference.cache
