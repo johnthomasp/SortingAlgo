@@ -1,0 +1,10 @@
+D:\Dropbox\Dropbox\Career\Learn\CodeBase\Algorithms\Sort-Selection\bin\Debug\Sort-Selection.exe.config
+D:\Dropbox\Dropbox\Career\Learn\CodeBase\Algorithms\Sort-Selection\bin\Debug\Sort-Selection.exe
+D:\Dropbox\Dropbox\Career\Learn\CodeBase\Algorithms\Sort-Selection\bin\Debug\Sort-Selection.pdb
+D:\Dropbox\Dropbox\Career\Learn\CodeBase\Algorithms\Sort-Selection\obj\Debug\Sort-Selection.exe
+D:\Dropbox\Dropbox\Career\Learn\CodeBase\Algorithms\Sort-Selection\obj\Debug\Sort-Selection.pdb
+D:\Dropbox\Dropbox\Career\Learn\CodeBase\SortingAlgo\Sort-Selection\bin\Debug\Sort-Selection.exe.config
+D:\Dropbox\Dropbox\Career\Learn\CodeBase\SortingAlgo\Sort-Selection\bin\Debug\Sort-Selection.exe
+D:\Dropbox\Dropbox\Career\Learn\CodeBase\SortingAlgo\Sort-Selection\bin\Debug\Sort-Selection.pdb
+D:\Dropbox\Dropbox\Career\Learn\CodeBase\SortingAlgo\Sort-Selection\obj\Debug\Sort-Selection.exe
+D:\Dropbox\Dropbox\Career\Learn\CodeBase\SortingAlgo\Sort-Selection\obj\Debug\Sort-Selection.pdb

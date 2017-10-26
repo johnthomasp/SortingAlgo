@@ -1,0 +1,10 @@
+D:\Dropbox\Dropbox\Career\Learn\CodeBase\Algorithms\Sort-Quick\bin\Debug\Sort-Quick.exe.config
+D:\Dropbox\Dropbox\Career\Learn\CodeBase\Algorithms\Sort-Quick\bin\Debug\Sort-Quick.exe
+D:\Dropbox\Dropbox\Career\Learn\CodeBase\Algorithms\Sort-Quick\bin\Debug\Sort-Quick.pdb
+D:\Dropbox\Dropbox\Career\Learn\CodeBase\Algorithms\Sort-Quick\obj\Debug\Sort-Quick.exe
+D:\Dropbox\Dropbox\Career\Learn\CodeBase\Algorithms\Sort-Quick\obj\Debug\Sort-Quick.pdb
+D:\Dropbox\Dropbox\Career\Learn\CodeBase\SortingAlgo\Sort-Quick\bin\Debug\Sort-Quick.exe.config
+D:\Dropbox\Dropbox\Career\Learn\CodeBase\SortingAlgo\Sort-Quick\bin\Debug\Sort-Quick.exe
+D:\Dropbox\Dropbox\Career\Learn\CodeBase\SortingAlgo\Sort-Quick\bin\Debug\Sort-Quick.pdb
+D:\Dropbox\Dropbox\Career\Learn\CodeBase\SortingAlgo\Sort-Quick\obj\Debug\Sort-Quick.exe
+D:\Dropbox\Dropbox\Career\Learn\CodeBase\SortingAlgo\Sort-Quick\obj\Debug\Sort-Quick.pdb

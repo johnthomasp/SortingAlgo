@@ -1,0 +1,11 @@
+D:\Dropbox\Dropbox\Career\Learn\CodeBase\Algorithms\Sort-Heap\bin\Debug\Sort-Heap.exe.config
+D:\Dropbox\Dropbox\Career\Learn\CodeBase\Algorithms\Sort-Heap\bin\Debug\Sort-Heap.exe
+D:\Dropbox\Dropbox\Career\Learn\CodeBase\Algorithms\Sort-Heap\bin\Debug\Sort-Heap.pdb
+D:\Dropbox\Dropbox\Career\Learn\CodeBase\Algorithms\Sort-Heap\obj\Debug\Sort-Heap.exe
+D:\Dropbox\Dropbox\Career\Learn\CodeBase\Algorithms\Sort-Heap\obj\Debug\Sort-Heap.pdb
+D:\Dropbox\Dropbox\Career\Learn\CodeBase\SortingAlgo\Sort-Heap\bin\Debug\Sort-Heap.exe.config
+D:\Dropbox\Dropbox\Career\Learn\CodeBase\SortingAlgo\Sort-Heap\bin\Debug\Sort-Heap.exe
+D:\Dropbox\Dropbox\Career\Learn\CodeBase\SortingAlgo\Sort-Heap\bin\Debug\Sort-Heap.pdb
+D:\Dropbox\Dropbox\Career\Learn\CodeBase\SortingAlgo\Sort-Heap\obj\Debug\Sort-Heap.csprojResolveAssemblyReference.cache
+D:\Dropbox\Dropbox\Career\Learn\CodeBase\SortingAlgo\Sort-Heap\obj\Debug\Sort-Heap.exe
+D:\Dropbox\Dropbox\Career\Learn\CodeBase\SortingAlgo\Sort-Heap\obj\Debug\Sort-Heap.pdb
